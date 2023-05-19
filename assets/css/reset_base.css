@@ -526,7 +526,7 @@ abbr[data-original-title] {
 	cursor: pointer;
 }
 .tab-area .tab {
-	width: calc(100% / 5);
+	width: calc(100% / 4);
 	text-align: center;
 	font-size: 1rem;
 	color: #fff;
